@@ -32,6 +32,7 @@ https://open.spotify.com/album/0tlOXKAa5yKeIZ6pJjg1Do
 https://open.spotify.com/album/0Vfnu4gH9ibcn6xSj9Yu6Z
 https://open.spotify.com/album/6hcjFmwlYuo2WCpvR4Hmr2
 https://open.spotify.com/album/6V8ccUDsAq45jcN3cMOGNZ
+https://open.spotify.com/playlist/7xEvqF6CoB6OWu9fFkNiOn
 https://open.spotify.com/album/7pskXPZLCaqcKWBZIj7yrc
 https://open.spotify.com/album/17LV7kxyYqItSzNbh7K6nK
 https://open.spotify.com/album/4xOQN7EeVLT5fhUdrgcg8B
@@ -52,3 +53,4 @@ https://open.spotify.com/album/3fAnSpPAOI4y8OzlNZRUeb
 https://open.spotify.com/album/74rCNjsp16smUDZ8besvPD
 https://open.spotify.com/album/0IKeXx5po0CyDLVYchYbOk
 https://open.spotify.com/album/5aT1yeRYTJVqD9BfPxMOrw
+https://open.spotify.com/album/4RAH7GtReYP3egqS3wQHzl
