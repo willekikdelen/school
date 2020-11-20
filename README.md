@@ -3,6 +3,8 @@ https://open.spotify.com/album/73Cced0yldfzNdaqE0AdJY
 https://open.spotify.com/album/4U9wAgvs9H6yOYTtAoIKQQ
 https://open.spotify.com/album/28jiFkMjZv3elQIZO7mNQx
 https://open.spotify.com/album/43FuuDmyimTLznxN5gqKtD
+https://open.spotify.com/playlist/6VsJoMQDGqxDRpMkSd0uq4
+https://open.spotify.com/album/7doEVnodl2jzG2ez2nCeY6
 https://open.spotify.com/album/4CpxX9eNoJTPsGpWcCWPNX
 https://open.spotify.com/album/79xtDKevrKlJH2XtLXuso2
 https://open.spotify.com/album/62jmXmWd3Gfol6quvtGcs4
