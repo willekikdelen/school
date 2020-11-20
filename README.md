@@ -25,6 +25,8 @@ https://open.spotify.com/playlist/22rH2k7qUgcpjbOGGAQC2u
 https://open.spotify.com/playlist/337C8GkOpsTgsLO76FUnWp
 https://open.spotify.com/playlist/3zPHQYIWMQfviagmrNkBJh
 https://open.spotify.com/playlist/4qEiS4jMnrELqIGPptRjjD
+https://open.spotify.com/album/6ZZU6vXSqw5EiAuQyNDeRB
+https://open.spotify.com/playlist/7qJwguSkNJCEGhawviIZD9
 https://open.spotify.com/playlist/3imwzAIm68m2XNY1VeyElI
 https://open.spotify.com/playlist/5ELhcyz0VxpcUloyfWhQpV
 https://open.spotify.com/playlist/1AGQ7FSa9NwV8cWhBnqSxh
