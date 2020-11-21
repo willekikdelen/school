@@ -7,6 +7,8 @@ https://open.spotify.com/playlist/6VsJoMQDGqxDRpMkSd0uq4
 https://open.spotify.com/album/7doEVnodl2jzG2ez2nCeY6
 https://open.spotify.com/album/4CpxX9eNoJTPsGpWcCWPNX
 https://open.spotify.com/album/79xtDKevrKlJH2XtLXuso2
+https://open.spotify.com/album/3nTCNGehHc83qOMDce4ihP
+https://open.spotify.com/playlist/4ZnBcA96iJHlSnYYPA4zUd
 https://open.spotify.com/album/62jmXmWd3Gfol6quvtGcs4
 https://open.spotify.com/album/3OyqD8Wm5uaUvlIhTYDpZw
 https://open.spotify.com/album/2upmCrDouVmLcTHnASzmem
