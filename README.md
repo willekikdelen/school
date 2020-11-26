@@ -3,6 +3,12 @@ https://open.spotify.com/album/73Cced0yldfzNdaqE0AdJY
 https://open.spotify.com/album/4U9wAgvs9H6yOYTtAoIKQQ
 https://open.spotify.com/album/28jiFkMjZv3elQIZO7mNQx
 https://open.spotify.com/album/43FuuDmyimTLznxN5gqKtD
+https://open.spotify.com/album/4WmDl7Y4NSf6ECTj3LH0Do
+https://open.spotify.com/playlist/3CSYR6Csh5QHJ6DuShnZX9
+https://open.spotify.com/album/1JvnQtTHRiLjdM3kgIqu0d
+https://open.spotify.com/album/62Gsv328Vu1TIG7GSkDgYR
+https://open.spotify.com/playlist/02R67OIW1t73RQF8rT8Zy9
+https://open.spotify.com/album/1tWJKN43H6w0S4oyD1RDW5
 https://open.spotify.com/playlist/6VsJoMQDGqxDRpMkSd0uq4
 https://open.spotify.com/album/7doEVnodl2jzG2ez2nCeY6
 https://open.spotify.com/album/4CpxX9eNoJTPsGpWcCWPNX
